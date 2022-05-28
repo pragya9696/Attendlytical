@@ -1,4 +1,4 @@
-# Smart Attendance System using Face Recognition
+# Attendlytical
 ### Hey there 
 
 So in order to help the instructors into pupil's understanding and the pupils to efficiently and quickly capture their understanding from the lectures/sessions we present my solution.
