@@ -25,7 +25,13 @@ In this project we are using **Face Recognition System for Automated Attendance*
 - <img width="960" alt="time" src="https://user-images.githubusercontent.com/83721036/170857057-b5e983a0-8b24-4c5d-8a4a-bc827aa74fac.png">
 ### 4.It also keeps tracks of any outsider that is present in the class. 
 - <img width="959" alt="outsider" src="https://user-images.githubusercontent.com/83721036/170857113-5991d6b7-4f8f-4676-923c-35c68034c8d9.png">
-  
+ 
+ ## TECH STACK 
+ ### 1)OPENCV
+ ### 2)Google Speech Recognition
+ ### 3)GTT
+ ### 4)Hugging Face Transformer
+ ### 5)Tenserflow
 
 # How to Run:
 - 👨🏽‍💻 Clone this repo.
